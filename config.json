@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionvpdate",
+        "uuid": 3430152,
+        "checksum": "ufttq"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
